@@ -1,0 +1,16 @@
+C:\Users\recep\Desktop\Pratikler\Değişkenler\bin\Debug\net5.0\Değişkenler.exe
+C:\Users\recep\Desktop\Pratikler\Değişkenler\bin\Debug\net5.0\Değişkenler.deps.json
+C:\Users\recep\Desktop\Pratikler\Değişkenler\bin\Debug\net5.0\Değişkenler.runtimeconfig.json
+C:\Users\recep\Desktop\Pratikler\Değişkenler\bin\Debug\net5.0\Değişkenler.runtimeconfig.dev.json
+C:\Users\recep\Desktop\Pratikler\Değişkenler\bin\Debug\net5.0\Değişkenler.dll
+C:\Users\recep\Desktop\Pratikler\Değişkenler\bin\Debug\net5.0\ref\Değişkenler.dll
+C:\Users\recep\Desktop\Pratikler\Değişkenler\bin\Debug\net5.0\Değişkenler.pdb
+C:\Users\recep\Desktop\Pratikler\Değişkenler\obj\Debug\net5.0\Değişkenler.csprojAssemblyReference.cache
+C:\Users\recep\Desktop\Pratikler\Değişkenler\obj\Debug\net5.0\Değişkenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recep\Desktop\Pratikler\Değişkenler\obj\Debug\net5.0\Değişkenler.AssemblyInfoInputs.cache
+C:\Users\recep\Desktop\Pratikler\Değişkenler\obj\Debug\net5.0\Değişkenler.AssemblyInfo.cs
+C:\Users\recep\Desktop\Pratikler\Değişkenler\obj\Debug\net5.0\Değişkenler.csproj.CoreCompileInputs.cache
+C:\Users\recep\Desktop\Pratikler\Değişkenler\obj\Debug\net5.0\Değişkenler.dll
+C:\Users\recep\Desktop\Pratikler\Değişkenler\obj\Debug\net5.0\ref\Değişkenler.dll
+C:\Users\recep\Desktop\Pratikler\Değişkenler\obj\Debug\net5.0\Değişkenler.pdb
+C:\Users\recep\Desktop\Pratikler\Değişkenler\obj\Debug\net5.0\Değişkenler.genruntimeconfig.cache
