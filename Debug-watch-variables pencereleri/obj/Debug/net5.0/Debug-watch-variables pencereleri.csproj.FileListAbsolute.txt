@@ -1,0 +1,16 @@
+C:\Users\recep\Desktop\Pratikler\Debug-watch-variables pencereleri\bin\Debug\net5.0\Debug-watch-variables pencereleri.exe
+C:\Users\recep\Desktop\Pratikler\Debug-watch-variables pencereleri\bin\Debug\net5.0\Debug-watch-variables pencereleri.deps.json
+C:\Users\recep\Desktop\Pratikler\Debug-watch-variables pencereleri\bin\Debug\net5.0\Debug-watch-variables pencereleri.runtimeconfig.json
+C:\Users\recep\Desktop\Pratikler\Debug-watch-variables pencereleri\bin\Debug\net5.0\Debug-watch-variables pencereleri.runtimeconfig.dev.json
+C:\Users\recep\Desktop\Pratikler\Debug-watch-variables pencereleri\bin\Debug\net5.0\Debug-watch-variables pencereleri.dll
+C:\Users\recep\Desktop\Pratikler\Debug-watch-variables pencereleri\bin\Debug\net5.0\ref\Debug-watch-variables pencereleri.dll
+C:\Users\recep\Desktop\Pratikler\Debug-watch-variables pencereleri\bin\Debug\net5.0\Debug-watch-variables pencereleri.pdb
+C:\Users\recep\Desktop\Pratikler\Debug-watch-variables pencereleri\obj\Debug\net5.0\Debug-watch-variables pencereleri.csprojAssemblyReference.cache
+C:\Users\recep\Desktop\Pratikler\Debug-watch-variables pencereleri\obj\Debug\net5.0\Debug-watch-variables pencereleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recep\Desktop\Pratikler\Debug-watch-variables pencereleri\obj\Debug\net5.0\Debug-watch-variables pencereleri.AssemblyInfoInputs.cache
+C:\Users\recep\Desktop\Pratikler\Debug-watch-variables pencereleri\obj\Debug\net5.0\Debug-watch-variables pencereleri.AssemblyInfo.cs
+C:\Users\recep\Desktop\Pratikler\Debug-watch-variables pencereleri\obj\Debug\net5.0\Debug-watch-variables pencereleri.csproj.CoreCompileInputs.cache
+C:\Users\recep\Desktop\Pratikler\Debug-watch-variables pencereleri\obj\Debug\net5.0\Debug-watch-variables pencereleri.dll
+C:\Users\recep\Desktop\Pratikler\Debug-watch-variables pencereleri\obj\Debug\net5.0\ref\Debug-watch-variables pencereleri.dll
+C:\Users\recep\Desktop\Pratikler\Debug-watch-variables pencereleri\obj\Debug\net5.0\Debug-watch-variables pencereleri.pdb
+C:\Users\recep\Desktop\Pratikler\Debug-watch-variables pencereleri\obj\Debug\net5.0\Debug-watch-variables pencereleri.genruntimeconfig.cache
