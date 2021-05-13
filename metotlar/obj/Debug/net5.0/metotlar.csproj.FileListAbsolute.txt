@@ -1,0 +1,16 @@
+C:\Users\recep\Desktop\Pratikler\metotlar\bin\Debug\net5.0\metotlar.exe
+C:\Users\recep\Desktop\Pratikler\metotlar\bin\Debug\net5.0\metotlar.deps.json
+C:\Users\recep\Desktop\Pratikler\metotlar\bin\Debug\net5.0\metotlar.runtimeconfig.json
+C:\Users\recep\Desktop\Pratikler\metotlar\bin\Debug\net5.0\metotlar.runtimeconfig.dev.json
+C:\Users\recep\Desktop\Pratikler\metotlar\bin\Debug\net5.0\metotlar.dll
+C:\Users\recep\Desktop\Pratikler\metotlar\bin\Debug\net5.0\ref\metotlar.dll
+C:\Users\recep\Desktop\Pratikler\metotlar\bin\Debug\net5.0\metotlar.pdb
+C:\Users\recep\Desktop\Pratikler\metotlar\obj\Debug\net5.0\metotlar.csprojAssemblyReference.cache
+C:\Users\recep\Desktop\Pratikler\metotlar\obj\Debug\net5.0\metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recep\Desktop\Pratikler\metotlar\obj\Debug\net5.0\metotlar.AssemblyInfoInputs.cache
+C:\Users\recep\Desktop\Pratikler\metotlar\obj\Debug\net5.0\metotlar.AssemblyInfo.cs
+C:\Users\recep\Desktop\Pratikler\metotlar\obj\Debug\net5.0\metotlar.csproj.CoreCompileInputs.cache
+C:\Users\recep\Desktop\Pratikler\metotlar\obj\Debug\net5.0\metotlar.dll
+C:\Users\recep\Desktop\Pratikler\metotlar\obj\Debug\net5.0\ref\metotlar.dll
+C:\Users\recep\Desktop\Pratikler\metotlar\obj\Debug\net5.0\metotlar.pdb
+C:\Users\recep\Desktop\Pratikler\metotlar\obj\Debug\net5.0\metotlar.genruntimeconfig.cache
