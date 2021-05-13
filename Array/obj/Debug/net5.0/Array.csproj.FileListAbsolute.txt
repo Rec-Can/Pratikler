@@ -1,0 +1,16 @@
+C:\Users\recep\Desktop\Pratikler\Array\bin\Debug\net5.0\Array.exe
+C:\Users\recep\Desktop\Pratikler\Array\bin\Debug\net5.0\Array.deps.json
+C:\Users\recep\Desktop\Pratikler\Array\bin\Debug\net5.0\Array.runtimeconfig.json
+C:\Users\recep\Desktop\Pratikler\Array\bin\Debug\net5.0\Array.runtimeconfig.dev.json
+C:\Users\recep\Desktop\Pratikler\Array\bin\Debug\net5.0\Array.dll
+C:\Users\recep\Desktop\Pratikler\Array\bin\Debug\net5.0\ref\Array.dll
+C:\Users\recep\Desktop\Pratikler\Array\bin\Debug\net5.0\Array.pdb
+C:\Users\recep\Desktop\Pratikler\Array\obj\Debug\net5.0\Array.csprojAssemblyReference.cache
+C:\Users\recep\Desktop\Pratikler\Array\obj\Debug\net5.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recep\Desktop\Pratikler\Array\obj\Debug\net5.0\Array.AssemblyInfoInputs.cache
+C:\Users\recep\Desktop\Pratikler\Array\obj\Debug\net5.0\Array.AssemblyInfo.cs
+C:\Users\recep\Desktop\Pratikler\Array\obj\Debug\net5.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\recep\Desktop\Pratikler\Array\obj\Debug\net5.0\Array.dll
+C:\Users\recep\Desktop\Pratikler\Array\obj\Debug\net5.0\ref\Array.dll
+C:\Users\recep\Desktop\Pratikler\Array\obj\Debug\net5.0\Array.pdb
+C:\Users\recep\Desktop\Pratikler\Array\obj\Debug\net5.0\Array.genruntimeconfig.cache
