@@ -1,0 +1,16 @@
+C:\Users\recep\Desktop\Pratikler\Karar Yapıları\bin\Debug\net5.0\Karar Yapıları.exe
+C:\Users\recep\Desktop\Pratikler\Karar Yapıları\bin\Debug\net5.0\Karar Yapıları.deps.json
+C:\Users\recep\Desktop\Pratikler\Karar Yapıları\bin\Debug\net5.0\Karar Yapıları.runtimeconfig.json
+C:\Users\recep\Desktop\Pratikler\Karar Yapıları\bin\Debug\net5.0\Karar Yapıları.runtimeconfig.dev.json
+C:\Users\recep\Desktop\Pratikler\Karar Yapıları\bin\Debug\net5.0\Karar Yapıları.dll
+C:\Users\recep\Desktop\Pratikler\Karar Yapıları\bin\Debug\net5.0\ref\Karar Yapıları.dll
+C:\Users\recep\Desktop\Pratikler\Karar Yapıları\bin\Debug\net5.0\Karar Yapıları.pdb
+C:\Users\recep\Desktop\Pratikler\Karar Yapıları\obj\Debug\net5.0\Karar Yapıları.csprojAssemblyReference.cache
+C:\Users\recep\Desktop\Pratikler\Karar Yapıları\obj\Debug\net5.0\Karar Yapıları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recep\Desktop\Pratikler\Karar Yapıları\obj\Debug\net5.0\Karar Yapıları.AssemblyInfoInputs.cache
+C:\Users\recep\Desktop\Pratikler\Karar Yapıları\obj\Debug\net5.0\Karar Yapıları.AssemblyInfo.cs
+C:\Users\recep\Desktop\Pratikler\Karar Yapıları\obj\Debug\net5.0\Karar Yapıları.csproj.CoreCompileInputs.cache
+C:\Users\recep\Desktop\Pratikler\Karar Yapıları\obj\Debug\net5.0\Karar Yapıları.dll
+C:\Users\recep\Desktop\Pratikler\Karar Yapıları\obj\Debug\net5.0\ref\Karar Yapıları.dll
+C:\Users\recep\Desktop\Pratikler\Karar Yapıları\obj\Debug\net5.0\Karar Yapıları.pdb
+C:\Users\recep\Desktop\Pratikler\Karar Yapıları\obj\Debug\net5.0\Karar Yapıları.genruntimeconfig.cache
