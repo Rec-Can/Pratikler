@@ -1,0 +1,16 @@
+C:\Users\recep\Desktop\Pratikler\For-Break-Continue\bin\Debug\net5.0\For-Break-Continue.exe
+C:\Users\recep\Desktop\Pratikler\For-Break-Continue\bin\Debug\net5.0\For-Break-Continue.deps.json
+C:\Users\recep\Desktop\Pratikler\For-Break-Continue\bin\Debug\net5.0\For-Break-Continue.runtimeconfig.json
+C:\Users\recep\Desktop\Pratikler\For-Break-Continue\bin\Debug\net5.0\For-Break-Continue.runtimeconfig.dev.json
+C:\Users\recep\Desktop\Pratikler\For-Break-Continue\bin\Debug\net5.0\For-Break-Continue.dll
+C:\Users\recep\Desktop\Pratikler\For-Break-Continue\bin\Debug\net5.0\ref\For-Break-Continue.dll
+C:\Users\recep\Desktop\Pratikler\For-Break-Continue\bin\Debug\net5.0\For-Break-Continue.pdb
+C:\Users\recep\Desktop\Pratikler\For-Break-Continue\obj\Debug\net5.0\For-Break-Continue.csprojAssemblyReference.cache
+C:\Users\recep\Desktop\Pratikler\For-Break-Continue\obj\Debug\net5.0\For-Break-Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recep\Desktop\Pratikler\For-Break-Continue\obj\Debug\net5.0\For-Break-Continue.AssemblyInfoInputs.cache
+C:\Users\recep\Desktop\Pratikler\For-Break-Continue\obj\Debug\net5.0\For-Break-Continue.AssemblyInfo.cs
+C:\Users\recep\Desktop\Pratikler\For-Break-Continue\obj\Debug\net5.0\For-Break-Continue.csproj.CoreCompileInputs.cache
+C:\Users\recep\Desktop\Pratikler\For-Break-Continue\obj\Debug\net5.0\For-Break-Continue.dll
+C:\Users\recep\Desktop\Pratikler\For-Break-Continue\obj\Debug\net5.0\ref\For-Break-Continue.dll
+C:\Users\recep\Desktop\Pratikler\For-Break-Continue\obj\Debug\net5.0\For-Break-Continue.pdb
+C:\Users\recep\Desktop\Pratikler\For-Break-Continue\obj\Debug\net5.0\For-Break-Continue.genruntimeconfig.cache
