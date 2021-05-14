@@ -1,0 +1,16 @@
+C:\Users\recep\Desktop\Pratikler\sinif_ kavrami\bin\Debug\net5.0\sinif_ kavrami.exe
+C:\Users\recep\Desktop\Pratikler\sinif_ kavrami\bin\Debug\net5.0\sinif_ kavrami.deps.json
+C:\Users\recep\Desktop\Pratikler\sinif_ kavrami\bin\Debug\net5.0\sinif_ kavrami.runtimeconfig.json
+C:\Users\recep\Desktop\Pratikler\sinif_ kavrami\bin\Debug\net5.0\sinif_ kavrami.runtimeconfig.dev.json
+C:\Users\recep\Desktop\Pratikler\sinif_ kavrami\bin\Debug\net5.0\sinif_ kavrami.dll
+C:\Users\recep\Desktop\Pratikler\sinif_ kavrami\bin\Debug\net5.0\ref\sinif_ kavrami.dll
+C:\Users\recep\Desktop\Pratikler\sinif_ kavrami\bin\Debug\net5.0\sinif_ kavrami.pdb
+C:\Users\recep\Desktop\Pratikler\sinif_ kavrami\obj\Debug\net5.0\sinif_ kavrami.csprojAssemblyReference.cache
+C:\Users\recep\Desktop\Pratikler\sinif_ kavrami\obj\Debug\net5.0\sinif_ kavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recep\Desktop\Pratikler\sinif_ kavrami\obj\Debug\net5.0\sinif_ kavrami.AssemblyInfoInputs.cache
+C:\Users\recep\Desktop\Pratikler\sinif_ kavrami\obj\Debug\net5.0\sinif_ kavrami.AssemblyInfo.cs
+C:\Users\recep\Desktop\Pratikler\sinif_ kavrami\obj\Debug\net5.0\sinif_ kavrami.csproj.CoreCompileInputs.cache
+C:\Users\recep\Desktop\Pratikler\sinif_ kavrami\obj\Debug\net5.0\sinif_ kavrami.dll
+C:\Users\recep\Desktop\Pratikler\sinif_ kavrami\obj\Debug\net5.0\ref\sinif_ kavrami.dll
+C:\Users\recep\Desktop\Pratikler\sinif_ kavrami\obj\Debug\net5.0\sinif_ kavrami.pdb
+C:\Users\recep\Desktop\Pratikler\sinif_ kavrami\obj\Debug\net5.0\sinif_ kavrami.genruntimeconfig.cache
