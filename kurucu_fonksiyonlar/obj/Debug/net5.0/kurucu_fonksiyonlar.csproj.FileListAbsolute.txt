@@ -1,0 +1,16 @@
+C:\Users\recep\Desktop\Pratikler\kurucu_fonksiyonlar\bin\Debug\net5.0\kurucu_fonksiyonlar.exe
+C:\Users\recep\Desktop\Pratikler\kurucu_fonksiyonlar\bin\Debug\net5.0\kurucu_fonksiyonlar.deps.json
+C:\Users\recep\Desktop\Pratikler\kurucu_fonksiyonlar\bin\Debug\net5.0\kurucu_fonksiyonlar.runtimeconfig.json
+C:\Users\recep\Desktop\Pratikler\kurucu_fonksiyonlar\bin\Debug\net5.0\kurucu_fonksiyonlar.runtimeconfig.dev.json
+C:\Users\recep\Desktop\Pratikler\kurucu_fonksiyonlar\bin\Debug\net5.0\kurucu_fonksiyonlar.dll
+C:\Users\recep\Desktop\Pratikler\kurucu_fonksiyonlar\bin\Debug\net5.0\ref\kurucu_fonksiyonlar.dll
+C:\Users\recep\Desktop\Pratikler\kurucu_fonksiyonlar\bin\Debug\net5.0\kurucu_fonksiyonlar.pdb
+C:\Users\recep\Desktop\Pratikler\kurucu_fonksiyonlar\obj\Debug\net5.0\kurucu_fonksiyonlar.csprojAssemblyReference.cache
+C:\Users\recep\Desktop\Pratikler\kurucu_fonksiyonlar\obj\Debug\net5.0\kurucu_fonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recep\Desktop\Pratikler\kurucu_fonksiyonlar\obj\Debug\net5.0\kurucu_fonksiyonlar.AssemblyInfoInputs.cache
+C:\Users\recep\Desktop\Pratikler\kurucu_fonksiyonlar\obj\Debug\net5.0\kurucu_fonksiyonlar.AssemblyInfo.cs
+C:\Users\recep\Desktop\Pratikler\kurucu_fonksiyonlar\obj\Debug\net5.0\kurucu_fonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\recep\Desktop\Pratikler\kurucu_fonksiyonlar\obj\Debug\net5.0\kurucu_fonksiyonlar.dll
+C:\Users\recep\Desktop\Pratikler\kurucu_fonksiyonlar\obj\Debug\net5.0\ref\kurucu_fonksiyonlar.dll
+C:\Users\recep\Desktop\Pratikler\kurucu_fonksiyonlar\obj\Debug\net5.0\kurucu_fonksiyonlar.pdb
+C:\Users\recep\Desktop\Pratikler\kurucu_fonksiyonlar\obj\Debug\net5.0\kurucu_fonksiyonlar.genruntimeconfig.cache
