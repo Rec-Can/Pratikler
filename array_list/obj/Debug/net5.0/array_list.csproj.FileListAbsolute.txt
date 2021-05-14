@@ -1,0 +1,16 @@
+C:\Users\recep\Desktop\Pratikler\array_list\bin\Debug\net5.0\array_list.exe
+C:\Users\recep\Desktop\Pratikler\array_list\bin\Debug\net5.0\array_list.deps.json
+C:\Users\recep\Desktop\Pratikler\array_list\bin\Debug\net5.0\array_list.runtimeconfig.json
+C:\Users\recep\Desktop\Pratikler\array_list\bin\Debug\net5.0\array_list.runtimeconfig.dev.json
+C:\Users\recep\Desktop\Pratikler\array_list\bin\Debug\net5.0\array_list.dll
+C:\Users\recep\Desktop\Pratikler\array_list\bin\Debug\net5.0\ref\array_list.dll
+C:\Users\recep\Desktop\Pratikler\array_list\bin\Debug\net5.0\array_list.pdb
+C:\Users\recep\Desktop\Pratikler\array_list\obj\Debug\net5.0\array_list.csprojAssemblyReference.cache
+C:\Users\recep\Desktop\Pratikler\array_list\obj\Debug\net5.0\array_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recep\Desktop\Pratikler\array_list\obj\Debug\net5.0\array_list.AssemblyInfoInputs.cache
+C:\Users\recep\Desktop\Pratikler\array_list\obj\Debug\net5.0\array_list.AssemblyInfo.cs
+C:\Users\recep\Desktop\Pratikler\array_list\obj\Debug\net5.0\array_list.csproj.CoreCompileInputs.cache
+C:\Users\recep\Desktop\Pratikler\array_list\obj\Debug\net5.0\array_list.dll
+C:\Users\recep\Desktop\Pratikler\array_list\obj\Debug\net5.0\ref\array_list.dll
+C:\Users\recep\Desktop\Pratikler\array_list\obj\Debug\net5.0\array_list.pdb
+C:\Users\recep\Desktop\Pratikler\array_list\obj\Debug\net5.0\array_list.genruntimeconfig.cache
