@@ -1,0 +1,16 @@
+C:\Users\recep\Desktop\Pratikler\datetime_and_math\bin\Debug\net5.0\datetime_and_math.exe
+C:\Users\recep\Desktop\Pratikler\datetime_and_math\bin\Debug\net5.0\datetime_and_math.deps.json
+C:\Users\recep\Desktop\Pratikler\datetime_and_math\bin\Debug\net5.0\datetime_and_math.runtimeconfig.json
+C:\Users\recep\Desktop\Pratikler\datetime_and_math\bin\Debug\net5.0\datetime_and_math.runtimeconfig.dev.json
+C:\Users\recep\Desktop\Pratikler\datetime_and_math\bin\Debug\net5.0\datetime_and_math.dll
+C:\Users\recep\Desktop\Pratikler\datetime_and_math\bin\Debug\net5.0\ref\datetime_and_math.dll
+C:\Users\recep\Desktop\Pratikler\datetime_and_math\bin\Debug\net5.0\datetime_and_math.pdb
+C:\Users\recep\Desktop\Pratikler\datetime_and_math\obj\Debug\net5.0\datetime_and_math.csprojAssemblyReference.cache
+C:\Users\recep\Desktop\Pratikler\datetime_and_math\obj\Debug\net5.0\datetime_and_math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recep\Desktop\Pratikler\datetime_and_math\obj\Debug\net5.0\datetime_and_math.AssemblyInfoInputs.cache
+C:\Users\recep\Desktop\Pratikler\datetime_and_math\obj\Debug\net5.0\datetime_and_math.AssemblyInfo.cs
+C:\Users\recep\Desktop\Pratikler\datetime_and_math\obj\Debug\net5.0\datetime_and_math.csproj.CoreCompileInputs.cache
+C:\Users\recep\Desktop\Pratikler\datetime_and_math\obj\Debug\net5.0\datetime_and_math.dll
+C:\Users\recep\Desktop\Pratikler\datetime_and_math\obj\Debug\net5.0\ref\datetime_and_math.dll
+C:\Users\recep\Desktop\Pratikler\datetime_and_math\obj\Debug\net5.0\datetime_and_math.pdb
+C:\Users\recep\Desktop\Pratikler\datetime_and_math\obj\Debug\net5.0\datetime_and_math.genruntimeconfig.cache
