@@ -1,0 +1,16 @@
+C:\Users\recep\Desktop\Pratikler\interfaces_\bin\Debug\net5.0\interfaces_.exe
+C:\Users\recep\Desktop\Pratikler\interfaces_\bin\Debug\net5.0\interfaces_.deps.json
+C:\Users\recep\Desktop\Pratikler\interfaces_\bin\Debug\net5.0\interfaces_.runtimeconfig.json
+C:\Users\recep\Desktop\Pratikler\interfaces_\bin\Debug\net5.0\interfaces_.runtimeconfig.dev.json
+C:\Users\recep\Desktop\Pratikler\interfaces_\bin\Debug\net5.0\interfaces_.dll
+C:\Users\recep\Desktop\Pratikler\interfaces_\bin\Debug\net5.0\ref\interfaces_.dll
+C:\Users\recep\Desktop\Pratikler\interfaces_\bin\Debug\net5.0\interfaces_.pdb
+C:\Users\recep\Desktop\Pratikler\interfaces_\obj\Debug\net5.0\interfaces_.csprojAssemblyReference.cache
+C:\Users\recep\Desktop\Pratikler\interfaces_\obj\Debug\net5.0\interfaces_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recep\Desktop\Pratikler\interfaces_\obj\Debug\net5.0\interfaces_.AssemblyInfoInputs.cache
+C:\Users\recep\Desktop\Pratikler\interfaces_\obj\Debug\net5.0\interfaces_.AssemblyInfo.cs
+C:\Users\recep\Desktop\Pratikler\interfaces_\obj\Debug\net5.0\interfaces_.csproj.CoreCompileInputs.cache
+C:\Users\recep\Desktop\Pratikler\interfaces_\obj\Debug\net5.0\interfaces_.dll
+C:\Users\recep\Desktop\Pratikler\interfaces_\obj\Debug\net5.0\ref\interfaces_.dll
+C:\Users\recep\Desktop\Pratikler\interfaces_\obj\Debug\net5.0\interfaces_.pdb
+C:\Users\recep\Desktop\Pratikler\interfaces_\obj\Debug\net5.0\interfaces_.genruntimeconfig.cache
