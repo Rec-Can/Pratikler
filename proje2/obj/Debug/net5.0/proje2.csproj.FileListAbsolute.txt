@@ -1,0 +1,16 @@
+C:\Users\recep\Desktop\Pratikler\proje2\obj\Debug\net5.0\proje2.csprojAssemblyReference.cache
+C:\Users\recep\Desktop\Pratikler\proje2\obj\Debug\net5.0\proje2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recep\Desktop\Pratikler\proje2\obj\Debug\net5.0\proje2.AssemblyInfoInputs.cache
+C:\Users\recep\Desktop\Pratikler\proje2\obj\Debug\net5.0\proje2.AssemblyInfo.cs
+C:\Users\recep\Desktop\Pratikler\proje2\obj\Debug\net5.0\proje2.csproj.CoreCompileInputs.cache
+C:\Users\recep\Desktop\Pratikler\proje2\bin\Debug\net5.0\proje2.exe
+C:\Users\recep\Desktop\Pratikler\proje2\bin\Debug\net5.0\proje2.deps.json
+C:\Users\recep\Desktop\Pratikler\proje2\bin\Debug\net5.0\proje2.runtimeconfig.json
+C:\Users\recep\Desktop\Pratikler\proje2\bin\Debug\net5.0\proje2.runtimeconfig.dev.json
+C:\Users\recep\Desktop\Pratikler\proje2\bin\Debug\net5.0\proje2.dll
+C:\Users\recep\Desktop\Pratikler\proje2\bin\Debug\net5.0\ref\proje2.dll
+C:\Users\recep\Desktop\Pratikler\proje2\bin\Debug\net5.0\proje2.pdb
+C:\Users\recep\Desktop\Pratikler\proje2\obj\Debug\net5.0\proje2.dll
+C:\Users\recep\Desktop\Pratikler\proje2\obj\Debug\net5.0\ref\proje2.dll
+C:\Users\recep\Desktop\Pratikler\proje2\obj\Debug\net5.0\proje2.pdb
+C:\Users\recep\Desktop\Pratikler\proje2\obj\Debug\net5.0\proje2.genruntimeconfig.cache
