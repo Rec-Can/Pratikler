@@ -54,14 +54,219 @@ namespace Proje_2
 
         private static void KartTasima()
         {
-            throw new NotImplementedException();
+            Console.Clear();
+            Console.WriteLine("Öncelikle taşımak istediğiniz kartı seçmeniz gerekiyor.");
+            Console.WriteLine("Lütfen kart başlığını yazınız: ");
+            string tempbaslik = Console.ReadLine();
+            for (int i = 0; i < toDo.Count; i++)
+            {
+                if (toDo[i].baslik == tempbaslik)
+                {
+                    Console.WriteLine("Bulunan Kart Bilgileri:");
+                    Console.WriteLine("*************************");
+                    Console.WriteLine("Başlık : " + toDo[i].baslik);
+                    Console.WriteLine("İçerik : " + toDo[i].icerik);
+                    Console.WriteLine("Atanan Kişi : " + toDo[i].atanankisi.isim_soyisim);
+                    Console.WriteLine("Büyüklük: " + toDo[i].kartBuyuklugu);
+                    Console.WriteLine("Line: ToDo");
+                    Console.WriteLine();
+                    Console.WriteLine("Lütfen taşımak istediğiniz Line'ı seçiniz.");
+                    Console.WriteLine("(1) ToDo");
+                    Console.WriteLine("(2) Progess");
+                    Console.WriteLine("(3) Done");
+                    int selec = Convert.ToInt32(Console.ReadLine());
+                    if(selec == 2)
+                    {
+                        progress.Add(toDo[i]);
+                        toDo.RemoveAt(i);
+                        Console.WriteLine("Başarıyla taşındı.");
+                        Console.ReadKey();
+                        BoardListeleme();
+                    }
+                    if(selec == 3)
+                    {
+                        done.Add(toDo[i]);
+                        toDo.RemoveAt(i);
+                        Console.WriteLine("Başarıyla taşındı.");
+                        Console.ReadKey();
+                        BoardListeleme();
+                    }
+                    else
+                    {
+                        KartTasima();
+                    }
+                }
+            }
+            for (int i = 0; i < progress.Count; i++)
+            {
+                if (progress[i].baslik == tempbaslik)
+                {
+                    Console.WriteLine("Bulunan Kart Bilgileri:");
+                    Console.WriteLine("*************************");
+                    Console.WriteLine("Başlık : " + progress[i].baslik);
+                    Console.WriteLine("İçerik : " + progress[i].icerik);
+                    Console.WriteLine("Atanan Kişi : " + progress[i].atanankisi.isim_soyisim);
+                    Console.WriteLine("Büyüklük: " + progress[i].kartBuyuklugu);
+                    Console.WriteLine("Line: Progress");
+                    Console.WriteLine("Lütfen taşımak istediğiniz Line'ı seçiniz.");
+                    Console.WriteLine("(1) ToDo");
+                    Console.WriteLine("(2) Progess");
+                    Console.WriteLine("(3) Done");
+                    Console.WriteLine();
+                    int selec = Convert.ToInt32(Console.ReadLine());
+                    if(selec == 1)
+                    {
+                        toDo.Add(progress[i]);
+                        progress.RemoveAt(i);
+                        Console.WriteLine("Başarıyla taşındı.");
+                        Console.ReadKey();
+                        BoardListeleme();
+                    }
+                    if(selec == 3)
+                    {
+                        done.Add(progress[i]);
+                        progress.RemoveAt(i);
+                        Console.WriteLine("Başarıyla taşındı.");
+                        Console.ReadKey();
+                        BoardListeleme();
+                    }
+                    else
+                    {
+                        KartTasima();
+                    }
+
+                }
+            }
+            for (int i = 0; i < done.Count; i++)
+            {
+                if (done[i].baslik == tempbaslik)
+                {
+                    Console.WriteLine("Bulunan Kart Bilgileri:");
+                    Console.WriteLine("*************************");
+                    Console.WriteLine("Başlık : " + done[i].baslik);
+                    Console.WriteLine("İçerik : " + done[i].icerik);
+                    Console.WriteLine("Atanan Kişi : " + done[i].atanankisi.isim_soyisim);
+                    Console.WriteLine("Büyüklük: " + done[i].kartBuyuklugu);
+                    Console.WriteLine("Line: Done");
+                    Console.WriteLine("Lütfen taşımak istediğiniz Line'ı seçiniz.");
+                    Console.WriteLine("(1) ToDo");
+                    Console.WriteLine("(2) Progess");
+                    Console.WriteLine("(3) Done");
+                    Console.WriteLine();
+                    int selec = Convert.ToInt32(Console.ReadLine());
+                    if(selec == 1)
+                    {
+                        toDo.Add(done[i]);
+                        done.RemoveAt(i);
+                        Console.WriteLine("Başarıyla taşındı.");
+                        Console.ReadKey();
+                        BoardListeleme();
+                    }
+                    if(selec == 2)
+                    {
+                        progress.Add(done[i]);
+                        done.RemoveAt(i);
+                        Console.WriteLine("Başarıyla taşındı.");
+                        Console.ReadKey();
+                        BoardListeleme();
+                    }
+                    else
+                    {
+                        KartTasima();
+                    }
+
+                }
+            }
         }
 
         private static void BoarddanKartSilme()
         {
-            throw new NotImplementedException();
+            Console.Clear();
+            Console.WriteLine("Öncelikle silmek istediğiniz kartı seçmeniz gerekiyor.");
+            Console.WriteLine("Lütfen kart başlığını yazınız: ");
+            string tempbaslik = Console.ReadLine();
+            for (int i = 0; i < toDo.Count; i++)
+            {
+                if (toDo[i].baslik == tempbaslik)
+                {
+                    toDo.RemoveAt(i);
+                    Console.WriteLine("Silme işlemi başarıyla tamamlandı.");
+                    Console.ReadKey();
+                    Main(null);
+                }
+                else
+                {
+                    Console.WriteLine("Aradığınız krtiterlere uygun kart board'da bulunamadı. Lütfen bir seçim yapınız.");
+                    Console.WriteLine("Ana Menüye Dönmek için : (1)");
+                    Console.WriteLine("Yeniden Denemek için :(2)");
+                    int selec = Convert.ToInt32(Console.ReadLine());
+                    if(selec == 1)
+                    {
+                        
+                        Main(null);
+                    }
+                    else
+                    {
+                        
+                        BoarddanKartSilme();
+                    }
+                }
+            }
+            for (int i = 0; i < progress.Count; i++)
+            {
+                if (progress[i].baslik == tempbaslik)
+                {
+                    progress.RemoveAt(i);
+                    Console.WriteLine("Silme işlemi başarıyla tamamlandı.");
+                    Console.ReadKey();
+                    Main(null);
+                }
+                else
+                {
+                    Console.WriteLine("Aradığınız krtiterlere uygun kart board'da bulunamadı. Lütfen bir seçim yapınız.");
+                    Console.WriteLine("Ana Menüye Dönmek için : (1)");
+                    Console.WriteLine("Yeniden Denemek için :(2)");
+                    int selec = Convert.ToInt32(Console.ReadLine());
+                    if(selec == 1)
+                    {
+                        
+                        Main(null);
+                    }
+                    else
+                    {
+                        
+                        BoarddanKartSilme();
+                    }
+                }
+            }
+            for (int i = 0; i < done.Count; i++)
+            {
+                if (done[i].baslik == tempbaslik)
+                {
+                    done.RemoveAt(i);
+                    Console.WriteLine("Silme işlemi başarıyla tamamlandı.");
+                    Console.ReadKey();
+                    Main(null);
+                }
+                else
+                {
+                    Console.WriteLine("Aradığınız krtiterlere uygun kart board'da bulunamadı. Lütfen bir seçim yapınız.");
+                    Console.WriteLine("Ana Menüye Dönmek için : (1)");
+                    Console.WriteLine("Yeniden Denemek için :(2)");
+                    int selec = Convert.ToInt32(Console.ReadLine());
+                    if(selec == 1)
+                    {
+                        
+                        Main(null);
+                    }
+                    else
+                    {
+                        
+                        BoarddanKartSilme();
+                    }
+                }
+            }
         }
-
         public static void BoardaKartEkleme()
         {
             Console.Clear();
